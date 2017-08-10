@@ -17,6 +17,7 @@ html {
 h1{
   color: black;
   background-color: white;
+  text-shadow: 1px 1px 20px black;
 }
 h2,
 h3,
@@ -31,6 +32,7 @@ h6 {
 }
 
 p {
+    text-shadow: 1px 1px 20px black;
     color: black;
     margin: 0 0 25px;
     font-size: 18px;

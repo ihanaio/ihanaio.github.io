@@ -1,4 +1,4 @@
-# [ihana.io](http://startbootstrap.com/)
+# [ihana.io](http://ihana.io/)
 
 ihana.io website
 
